@@ -4,10 +4,7 @@
 export default () => {
   pronouns: "He" | "Him",
   website: "developing",
-  tagFromMe: [
-    "Web", "Front end", "JPOP",
-    "Foods", "Tech"
-  ],
+  tagFromMe: ["Web", "Front end", "JPOP", "Foods", "Tech"],
   technologies: {
     frontEnd: {
       js: ["Nuxt3", "Vue eccosystem", "Typescript"],
