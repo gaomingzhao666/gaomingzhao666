@@ -18,13 +18,7 @@ export default () => {
       js: ["Node", "Express", "Typescript", "Nitro by Nuxt"],
       databases: ["mongo"]
     },
-    basicLanguage: "C",
     other: ["Docker", "Git", "VScode", "Vercel"]
   },
-  memberships: [
-    "Internet Freedom Foundation",
-    "Association for Computing Machinery",
-    "Institute of Electrical and Electronics Engineers"
-  ]
 }
 ```
