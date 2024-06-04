@@ -3,7 +3,7 @@
 ```js
 export default () => {
   pronouns: "He" | "Him",
-  website: "developing",
+  website: "[index](https://nano-portfolio-ruby.vercel.app/index)",
   tagFromMe: ["Web", "Front end", "JPOP", "Foods", "Tech"],
   technologies: {
     frontEnd: {
