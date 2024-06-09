@@ -1,6 +1,6 @@
-# Hi, there is Nano
+# Hi, there is Nano@Gaomingzhao
 
-```js
+```ts
 export default () => {
   pronouns: "He" | "Him",
   website: "[index](https://nano-portfolio-ruby.vercel.app/index)",
@@ -16,6 +16,22 @@ export default () => {
       databases: ["mongo"]
     },
     other: ["Docker", "Git", "VScode", "Vercel"]
+  },
+  learning: {
+    frontEnd: {},
+    backEnd: {},
+  },
+  prepareToLearning: {
+    frontEnd: {
+      js: ["React", "Svelte"],
+      css: [],
+      tools: ["Jest"],
+    },
+    backEnd?: {
+      language: [],
+      databases: [],
+      tools: []
+    }
   },
 }
 ```
