@@ -7,7 +7,7 @@ export default () => {
   tagFromMe: ["Web", "Front end", "JPOP", "Foods", "Tech"],
   technologies: {
     frontEnd: {
-      js: ["Nuxt3", "Vue eccosystem", "Typescript"],
+      js: ["Nuxt", "Vue eccosystem with composition", "Typescript"],
       css: ["TailwindCSS", "Less & Sass", "ElementUI", "NuxtUI"],
       tools: ["Vite", "Devtools by Chrome & Vue & Nuxt"]
     },
@@ -23,9 +23,9 @@ export default () => {
   },
   prepareToLearning: {
     frontEnd: {
-      js: ["React", "Svelte"],
+      js: ["React eccosystem with hook", "React-Native", "Next"],
       css: [],
-      tools: ["Jest"],
+      tools: ["Jest || Vitest", "Docker Development and Deployment"],
     },
     backEnd?: {
       language: [],
