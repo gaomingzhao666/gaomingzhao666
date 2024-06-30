@@ -5,6 +5,11 @@ export default () => {
   pronouns: "He" | "Him",
   website: "[index](https://nano-portfolio-ruby.vercel.app/index)",
   tagFromMe: ["Web", "Front end", "JPOP", "Foods", "Tech"],
+  languages: {
+    Chinese: "NATIVE",
+    English: "TOEIC",
+    Japanese: "JLPT"    
+  }
   technologies: {
     frontEnd: {
       js: ["Nuxt", "Vue eccosystem with composition", "Typescript"],
@@ -13,19 +18,20 @@ export default () => {
     },
     backEnd: {
       js: ["Node", "Express", "Typescript", "Nitro by Nuxt"],
-      databases: ["mongo"]
+      databases: ["Mongo"]
     },
-    other: ["Docker", "Git", "VScode", "Vercel"]
+    others: ["Docker", "Git", "VScode", "Vercel", "Postman"]
   },
   learning: {
     frontEnd: {},
     backEnd: {},
+    testing: ["Vitest", "Cypress"]
   },
   prepareToLearning: {
     frontEnd: {
       js: ["React eccosystem with hook", "React-Native", "Next"],
       css: [],
-      tools: ["Jest || Vitest", "Docker Development and Deployment"],
+      tools: ["Jest || Vitest", "Docker Development and Deployment"]
     },
     backEnd?: {
       language: [],
