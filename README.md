@@ -9,7 +9,7 @@ export default () => {
     Chinese: "NATIVE",
     English: "TOEIC",
     Japanese: "JLPT"    
-  }
+  },
   technologies: {
     frontEnd: {
       js: ["Nuxt", "Vue eccosystem with composition", "Typescript"],
