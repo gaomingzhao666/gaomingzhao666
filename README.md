@@ -20,7 +20,7 @@ export default () => {
       js: ["Node", "Express", "Typescript", "Nitro by Nuxt"],
       databases: ["Mongo"]
     },
-    others: ["Docker", "Git", "VScode", "Vercel", "Postman"]
+    others: ["Docker", "Git", "VScode", "Vercel", "Postman", "Figma"]
   },
   learning: {
     frontEnd: {},
