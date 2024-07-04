@@ -10,7 +10,8 @@ export default () => {
     English: "TOEIC",
     Japanese: "JLPT"    
   },
-  technologies: {
+  // I can use this technologies and already have experience on some projects
+  technologiesIcanUse: {
     frontEnd: {
       js: ["Nuxt", "Vue eccosystem with composition", "Typescript"],
       css: ["TailwindCSS", "Less & Sass", "ElementUI", "NuxtUI"],
@@ -22,16 +23,22 @@ export default () => {
     },
     others: ["Docker", "Git", "VScode", "Vercel", "Postman", "Figma"]
   },
+  // I can understand this languages, and add or revise code at a limit level
+  technologiesIcanRead: {
+    languages: ["C", "SQL"],
+  }
+  // recently learning
   learning: {
     frontEnd: {},
     backEnd: {},
     testing: ["Vitest", "Cypress"]
   },
+  // I am interested in these and will probably learn about them in 2-3 years later.
   prepareToLearning: {
     frontEnd: {
       js: ["React eccosystem with hook", "React-Native", "Next"],
       css: [],
-      tools: ["Jest || Vitest", "Docker Development and Deployment"]
+      tools: ["Docker Development and Deployment"]
     },
     backEnd?: {
       language: [],
