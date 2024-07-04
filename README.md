@@ -4,6 +4,7 @@
 export default () => {
   pronouns: "He" | "Him",
   website: "[index](https://nano-portfolio-ruby.vercel.app/index)",
+  collegeMajor: "Computer Science and Technology",
   tagFromMe: ["Web", "Front end", "JPOP", "Foods", "Tech"],
   languages: {
     Chinese: "NATIVE",
@@ -26,7 +27,7 @@ export default () => {
   // I can understand this languages, and add or revise code at a limit level
   technologiesIcanRead: {
     languages: ["C", "SQL"],
-  }
+  },
   // recently learning
   learning: {
     frontEnd: {},
