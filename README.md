@@ -5,39 +5,36 @@ export default () => {
   pronouns: "He" | "Him",
   website: "[index](https://nano-portfolio-ruby.vercel.app/index)",
   collegeMajor: "Computer Science and Technology",
-  tagFromMe: ["Web", "Front end", "JPOP", "Foods", "Tech"],
+  tagFromMe: ["Web", "Frontend", "JPOP", "Foods", "Tech", "CPUs"],
   languages: {
     Chinese: "NATIVE",
     English: "TOEIC",
     Japanese: "JLPT"    
   },
-  // I can use this technologies and already have experience on some projects
+
+  // I can use these technologies and already have experience on some projects
   technologiesIcanUse: {
     frontEnd: {
       js: ["Nuxt", "Vue eccosystem with composition", "Typescript"],
-      css: ["TailwindCSS", "Less & Sass", "ElementUI", "NuxtUI"],
-      tools: ["Vite", "Devtools by Chrome & Vue & Nuxt"]
+      css: ["TailwindCSS", "Less & Sass", "ElementUI", "NuxtUI", "Bootstrap5+(no jQuery)"],
+      tools: ["Vite", "NPM & PNPM"]
     },
     backEnd: {
-      js: ["Node", "Express", "Typescript", "Nitro by Nuxt"],
+      js: ["Node", "Express", "JavaScript & TypeScript", "Nitro by Nuxt"],
       databases: ["Mongo"]
     },
-    others: ["Docker", "Git", "VScode", "Vercel", "Postman", "Figma"]
+    testing: ["Vitest", "Playweight", "Chrome Devtools", "Nuxt & Vue Devtools", "Postman"]
+    others: ["Dockerfile", "Git & GitHub", "VScode & Cursor", "Vercel", "Figma"]
   },
-  // I can understand this languages, and add or revise code at a limit level
+  // I can understand and read these languages, I can add or revise some code at a engineering level
   technologiesIcanRead: {
     languages: ["C", "SQL"],
   },
-  // recently learning
-  learning: {
-    frontEnd: {},
-    backEnd: {},
-    testing: ["Vitest", "Cypress"]
-  },
-  // I am interested in these and will probably learn about them in 2-3 years later.
+
+  // I am interested in these and will probably learn about them around few times later.
   prepareToLearning: {
     frontEnd: {
-      js: ["React eccosystem with hook", "React-Native", "Next"],
+      js: ["React eccosystem with hook", "React-Native", "Next", "Ionic"],
       css: [],
       tools: ["Docker Development and Deployment"]
     },
