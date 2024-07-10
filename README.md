@@ -1,7 +1,7 @@
 # Hi, there is Nano@Gaomingzhao
 
 ```ts
-export default () => {
+export const aboutMe❤️ = (): void => {
   pronouns: "He" | "Him",
   website: "[index](https://nano-portfolio-ruby.vercel.app/index)",
   collegeMajor: "Computer Science and Technology",
