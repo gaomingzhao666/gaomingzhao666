@@ -15,7 +15,7 @@ export default () => {
   // I can use these technologies and already have experience on some projects
   technologiesIcanUse: {
     frontEnd: {
-      js: ["Nuxt", "Vue eccosystem with composition", "Typescript"],
+      js: ["Nuxt", "Vue eccosystem with composition", "Typescript", "Tauri"],
       css: ["TailwindCSS", "Less & Sass", "ElementUI", "NuxtUI", "Bootstrap5+(no jQuery)"],
       tools: ["Vite", "NPM & PNPM"]
     },
@@ -28,7 +28,7 @@ export default () => {
   },
   // I can understand and read these languages, I can add or revise some code at a engineering level
   technologiesIcanRead: {
-    languages: ["C", "SQL"],
+    stuffs: ["C", "SQL", "Linux"],
   },
 
   // I am interested in these and will probably learn about them around few times later.
