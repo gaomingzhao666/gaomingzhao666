@@ -15,15 +15,15 @@ export const aboutMe❤️ = (): void => {
   // I can use these technologies and already have experience on some projects
   technologiesIcanUse: {
     frontEnd: {
-      js: ["Nuxt", "Vue eccosystem with composition", "Typescript", "Tauri"],
+      js: ["Nuxt", "Vue eccosystem with composition", "ES6+ & Typescript", "Tauri"],
       css: ["TailwindCSS", "Less & Sass", "ElementUI", "NuxtUI", "Bootstrap5+(no jQuery)"],
       tools: ["Vite", "NPM & PNPM"]
     },
     backEnd: {
-      js: ["Node", "Express", "JavaScript & TypeScript", "Nitro by Nuxt"],
+      js: ["Node", "Express", "ES6+ & TypeScript", "Nitro by Nuxt"],
       databases: ["Mongo"]
     },
-    testing: ["Vitest", "Playweight", "Chrome Devtools", "Nuxt & Vue Devtools", "Postman"]
+    testing: ["Vitest", "Playwright", "Chrome Devtools", "Nuxt & Vue Devtools", "Postman"],
     others: ["Dockerfile", "Git & GitHub", "VScode & Cursor", "Vercel", "Figma"]
   },
   // I can understand and read these languages, I can add or revise some code at a engineering level
