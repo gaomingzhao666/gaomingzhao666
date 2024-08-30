@@ -5,6 +5,7 @@ export const aboutMe❤️ = (): void => {
   pronouns: "He" | "Him",
   website: "[index](https://nano-portfolio-ruby.vercel.app/index)",
   collegeMajor: "Computer Science and Technology",
+  personality: "Architect: INTJ, testing from MBTI",
   tagFromMe: ["Web", "Frontend", "JPOP", "Foods", "Tech", "CPUs"],
   languages: {
     Chinese: "NATIVE",
