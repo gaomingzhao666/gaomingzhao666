@@ -1,7 +1,7 @@
 # Hi, there is Nano@Gaomingzhao
 
 ```ts
-export const aboutMe❤️ = (): void => {
+export const aboutMe❤️ = {
   pronouns: "He" | "Him",
   website: "[index](https://nano-portfolio-ruby.vercel.app/index)",
   collegeMajor: "Computer Science and Technology",
@@ -13,34 +13,21 @@ export const aboutMe❤️ = (): void => {
     Japanese: "JLPT"    
   },
 
-  technologiesIcanUse: {
+  usedItems: {
     frontEnd: {
-      js: ["Nuxt", "Vue eccosystem with composition", "ES6+ & Typescript", "Tauri"],
-      css: ["TailwindCSS", "Less & Sass", "ElementUI", "NuxtUI", "Bootstrap5+(no jQuery)"],
-      tools: ["Vite", "NPM & PNPM"]
+      js: ["Nuxt", "Vue eccosystem with Composition", "Svelte with Runes", "ES6+ & Typescript", "Tauri"],
+      css: ["TailwindCSS", "Less & Sass", "ElementUI", "NuxtUI", "Shadcn", "Bootstrap5+(no jQuery)"],
+      tools: ["Vite", "NPM & PNPM & YARN"]
     },
     backEnd: {
       js: ["Node", "Express", "ES6+ & TypeScript", "Nitro by Nuxt"],
       databases: ["Mongo"]
     },
     testing: ["Vitest", "Playwright", "Chrome Devtools", "Nuxt & Vue Devtools", "Postman"],
+    operatingSystems: ["Windows", "UBUNTU"]
     others: ["Dockerfile", "Git & GitHub", "VScode & Cursor", "Vercel", "Figma"]
   },
-  technologiesIcanRead: {
-    stuffs: ["C", "SQL", "Linux"],
-  },
 
-  prepareToLearning: {
-    frontEnd: {
-      js: ["React eccosystem with hook", "React-Native", "Next", "Ionic"],
-      css: [],
-      tools: ["Docker Development and Deployment"]
-    },
-    backEnd?: {
-      language: [],
-      databases: [],
-      tools: []
-    }
-  },
+  interstingItems: ["Supabase", "PostgreSQL"],
 }
 ```
