@@ -24,10 +24,10 @@ export const aboutMe❤️ = {
       databases: ["Mongo"]
     },
     testing: ["Vitest", "Playwright", "Chrome Devtools", "Nuxt & Vue Devtools", "Postman"],
-    operatingSystems: ["Windows", "UBUNTU"]
+    operatingSystems: ["Windows", "UBUNTU"],
     others: ["Dockerfile", "Git & GitHub", "VScode & Cursor", "Vercel", "Figma"]
   },
 
-  interstingItems: ["Supabase", "PostgreSQL"],
+  interstingItems: ["Supabase", "PostgreSQL"]
 }
 ```
