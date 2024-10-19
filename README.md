@@ -1,4 +1,4 @@
-<a href="https://ibb.co/SwwHQzk"><img src="https://i.ibb.co/Xxx6yqn/hachiware1.jpg" alt="hachiware1" border="0"></a>
+<a href="https://ibb.co/sRhjL2S"><img src="https://i.ibb.co/tKSBy4f/hachiware1.jpg" alt="hachiware" width="100%" border="0"></a>
 
 <h1> Hey! I'm Nano@Gaomingzhao.</h1>
 
