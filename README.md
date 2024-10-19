@@ -33,14 +33,15 @@
 > The tech stack icons is not fullfill, you can track the [nano-portfolio]("https://nano-portfolio-ruby.vercel.app) to see the overall tech stack
 
 <a href="https://github.com/gaomingzhao666">
-  <img height="180em" style="margin-right:10px;" src="https://github-readme-stats.vercel.app/api?username=gaomingzhao666&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaomingzhao666&theme=buefy&show_icons=true" />
+  &nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaomingzhao666&theme=buefy&layout=compact" />
 </a>
 
 <h3> 🤝🏻 &nbsp;Link Me </h3>
 
 <p align="left">
-<a href="https://nano-portfolio-ruby.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/https://nano-portfolio-ruby.vercel.app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="#"><img alt="Blog(developing)" src="https://img.shields.io/badge/https://nano-portfolio-ruby.vercel.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://nano-portfolio-ruby.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/https://nano-portfolio-ruby.vercel.app/index-blue?style=flat-square&logo=google-chrome"></a>
+<a href="#"><img alt="Blog(developing)" src="https://img.shields.io/badge/https://nano-portfolio-ruby.vercel.app/index-blue?style=flat-square&logo=google-chrome"></a>
 <a href="gaomingzhao666@outlook.com"><img alt="Email" src="https://img.shields.io/badge/gaomingzhao666@outlook.com-blue?style=flat-square&logo=gmail"></a>
 </p>
