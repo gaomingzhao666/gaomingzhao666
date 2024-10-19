@@ -34,14 +34,5 @@
 
 <a href="https://github.com/gaomingzhao666">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaomingzhao666&theme=buefy&show_icons=true" />
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaomingzhao666&theme=buefy&layout=compact" />
 </a>
-
-<h3> 🤝🏻 &nbsp;Link Me </h3>
-
-<p align="left">
-<a href="https://nano-portfolio-ruby.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/https://nano-portfolio-ruby.vercel.app.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="#"><img alt="Blog(developing)" src="https://img.shields.io/badge/https://nano-portfolio-ruby.vercel.app.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="gaomingzhao666@outlook.com"><img alt="Email" src="https://img.shields.io/badge/gaomingzhao666@outlook.com-blue?style=flat-square&logo=gmail"></a>
-</p>
