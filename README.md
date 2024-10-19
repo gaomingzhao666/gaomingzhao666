@@ -2,11 +2,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🍉 &nbsp; Love to eating something like snacks and sweets, that's why I'm tring to hard work!
-- 🎓 &nbsp; Graduated on the major of Computer Science and Technology.
+- 🍉 &nbsp; Love to eat something like snacks and sweets, that's why I'm tring to hard work!
+- 🎓 &nbsp; Graduated onwith the major of Computer Science and Technology.
 - 🌏 &nbsp; Using English, Japanese and Chinese.
-- 🌱 &nbsp; Be interested about python script automation and backend service.
-- 💻 &nbsp; Enthusiasting about lower price of CPUs, Computers and Phones.
+- 🌱 &nbsp; Be interested in python script automation and backend service.
+- 💻 &nbsp; Enthusiastic about lower price of CPUs, Computers and Phones.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -32,7 +32,8 @@
 -->
 > The tech stack icons is not fullfill, you can track the [nano-portfolio]("https://nano-portfolio-ruby.vercel.app) to see the overall tech stack
 
-<a href="https://github.com/gaomingzhao666">
+<p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaomingzhao666&theme=buefy&show_icons=true" />
+  &nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaomingzhao666&theme=buefy&layout=compact" />
-</a>
+</p>
