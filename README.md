@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🍉 &nbsp; Love to eat something like snacks and sweets, that's why I'm tring to hard work!
-- 🎓 &nbsp; Graduated onwith the major of Computer Science and Technology.
+- 🎓 &nbsp; Graduated with the major of Computer Science and Technology.
 - 🌏 &nbsp; Using English, Japanese and Chinese.
 - 🌱 &nbsp; Be interested in python script automation and backend service.
 - 💻 &nbsp; Enthusiastic about lower price of CPUs, Computers and Phones.
@@ -25,6 +25,10 @@
 <h4>Solutions</h4>
 
   [![My Skills](https://skillicons.dev/icons?i=github,stackoverflow)](https://skillicons.dev)
+
+<h4>Learned from college but never used for production or a project</h4>
+
+  [![My Skills](https://skillicons.dev/icons?i=c,sql,mysql,python,cpp)](https://skillicons.dev)
   
 <!-- 
 <h3>Automation Scripts</h3>
