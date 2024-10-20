@@ -28,7 +28,7 @@
 
 <h4>Learned from college but never used for production or a project</h4>
 
-  [![My Skills](https://skillicons.dev/icons?i=c,sql,mysql,python,cpp)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,mysql,python,cpp)](https://skillicons.dev)
   
 <!-- 
 <h3>Automation Scripts</h3>
