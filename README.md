@@ -2,11 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🍉 &nbsp; Love to eat something like snacks and sweets, that's why I'm tring to hard work!
-- 🎓 &nbsp; Graduated with the major of Computer Science and Technology.
-- 🌏 &nbsp; Using English, Japanese and Chinese.
-- 🌱 &nbsp; Be interested in python script automation and backend service.
-- 💻 &nbsp; Enthusiastic about lower price of CPUs, Computers and Phones.
+- tags from me: #jpop #food #coding #tech
+- personality: intj (Architect Personality)
+- langs: Chinese, English, Japanese
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -34,7 +32,7 @@
 <h3>Automation Scripts</h3>
   [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 -->
-> The tech stack icons is not fullfill, you can track the [nano-portfolio]("https://nano-portfolio-ruby.vercel.app) to see the overall tech stack
+> The tech stack icons is not be fullfilled, you can track to the [nano-portfolio](https://nano-portfolio-ruby.vercel.app) to see the overall tech stack
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaomingzhao666&theme=buefy&show_icons=true" />
