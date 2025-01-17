@@ -2,7 +2,7 @@
 
 <h3> 😎 &nbsp;About</h3>
 
-- tags: 🎵, 🍟, </>, ✈️
+- tags: 🎵, 🍟, <strong></><strong/>, ✈️
 - personality: intj (Architect Personality)
 - langs: Chinese, English, Japanese
 
