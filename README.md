@@ -1,12 +1,17 @@
-<h2> Hey! I'm Nano@Gaomingzhao.</h2>
+<h2> Halo! I'm Nano@Gaomingzhao.</h2>
 
+<div align="center">
 <h3> 😎 &nbsp;About</h3>
 
-- tags: 🎵, 🍟, </>, ✈️
-- personality: intj
+- tags: 🎵, 🍙, 🥤, ✈️, 🍬, 🛒
+- personality: [INTJ](https://www.16personalities.com/intj-personality)
 - langs: Chinese, English, Japanese
+</div>
 
-<h3> 🍬 &nbsp;Tech Stack</h3>
+---
+
+<div align="center">
+<h3> ✨ &nbsp;Skills</h3>
 
 <h4>Frontend Development</h4>
 
@@ -23,15 +28,12 @@
 <h4>Solutions</h4>
 
   [![My Skills](https://skillicons.dev/icons?i=github,stackoverflow)](https://skillicons.dev)
+</div>
 
-<h4>Everyone learned on college</h4>
+---
 
-  [![My Skills](https://skillicons.dev/icons?i=c,mysql,python,cpp)](https://skillicons.dev)
-  
-> The tech stack icons is not be fullfilled, you can track to the [nano-portfolio](https://nano-portfolio-ruby.vercel.app) to see the overall tech stack
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaomingzhao666&theme=buefy&show_icons=true" />
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaomingzhao666&theme=highcontrast&show_icons=true" />
   &nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaomingzhao666&theme=buefy&layout=compact" />
-</p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaomingzhao666&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=true&bg_color=171717&title_color=ff66cc&text_color=ffffff&border_color=ff99cc" alt="languages graph" />
+</div>
