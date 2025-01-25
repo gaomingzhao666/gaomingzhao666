@@ -35,7 +35,7 @@
 ---
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaomingzhao666&locale=entheme=highcontrast&card_width=420&show_icons=true&hide_border=true&bg_color=171717&title_color=ff66cc&text_color=ffffff&border_color=ff99cc" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaomingzhao666&locale=en&theme=highcontrast&card_width=420&show_icons=true&hide_border=true&bg_color=171717&title_color=ff66cc&text_color=ffffff&border_color=ff99cc" alt="languages graph" />
   &nbsp;&nbsp;&nbsp;
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaomingzhao666&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=6&theme=highcontrast&hide_border=true&bg_color=171717&title_color=ff66cc&text_color=ffffff&border_color=ff99cc" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaomingzhao666&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=6&theme=highcontrast&hide_border=true&bg_color=171717&title_color=ff66cc&text_color=ffffff&border_color=ff99cc" alt="languages graph" />
 </div>
