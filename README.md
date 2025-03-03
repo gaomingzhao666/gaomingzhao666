@@ -33,7 +33,7 @@
 
 <h3>What I am learning</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql)](https://skillicons.dev)
 </div>
 
 ---
