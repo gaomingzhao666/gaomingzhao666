@@ -30,6 +30,10 @@
 <h3>Solutions</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=github,stackoverflow)](https://skillicons.dev)
+
+<h3>What I am learning</h3>
+
+  [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
 </div>
 
 ---
