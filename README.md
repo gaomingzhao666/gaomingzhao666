@@ -31,9 +31,9 @@
 
   [![My Skills](https://skillicons.dev/icons?i=github,stackoverflow)](https://skillicons.dev)
 
-<h3>What I am learning</h3>
+<h3>What I am Learning OR Interesting</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=supabase,prisma,mysql,react,nextjs)](https://skillicons.dev)
 </div>
 
 ---
