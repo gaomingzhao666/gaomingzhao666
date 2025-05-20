@@ -4,7 +4,7 @@
 <h2> 😎 &nbsp;About</h2>
 
 - tags: 🎵, 🍙, 🥤, ✈️, 🍬, 🛒
-- personality: [INTJ](https://www.16personalities.com/intj-personality)
+- personality: [INTJ](https://www.16personalities.com/intj-personality) - INTJ-T(Turbulent Architects Personality)
 - langs: Chinese, English, Japanese
 </div>
 
