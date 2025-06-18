@@ -33,7 +33,7 @@
 
 <h3>What I am Learning OR Interesting</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=supabase,prisma,mysql,react,nextjs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=supabase,prisma,mysql,react,nextjs,php,laravel)](https://skillicons.dev)
 </div>
 
 ---
